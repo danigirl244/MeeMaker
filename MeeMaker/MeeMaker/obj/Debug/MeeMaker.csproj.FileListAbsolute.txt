@@ -1,0 +1,14 @@
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\bin\Debug\MeeMaker.exe.config
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MainWindow.g.cs
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\App.g.cs
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker_MarkupCompile.cache
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker_MarkupCompile.lref
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\bin\Debug\MeeMaker.exe
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\bin\Debug\MeeMaker.pdb
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MainWindow.baml
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.g.resources
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.Properties.Resources.resources
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.csproj.GenerateResource.Cache
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.exe
+C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.pdb
