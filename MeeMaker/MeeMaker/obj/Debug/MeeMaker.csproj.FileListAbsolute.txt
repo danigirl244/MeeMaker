@@ -12,3 +12,6 @@ C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj
 C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.csproj.GenerateResource.Cache
 C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.exe
 C:\Users\Dani\Documents\Quarter 4\App Development\Projects\MeeMaker\MeeMaker\obj\Debug\MeeMaker.pdb
+C:\Users\Dani\Documents\Quarter 4\App Development\Repository\MeeMaker\MeeMaker\MeeMaker\bin\Debug\MeeMaker.exe.config
+C:\Users\Dani\Documents\Quarter 4\App Development\Repository\MeeMaker\MeeMaker\MeeMaker\obj\Debug\MeeMaker.exe
+C:\Users\Dani\Documents\Quarter 4\App Development\Repository\MeeMaker\MeeMaker\MeeMaker\obj\Debug\MeeMaker.pdb
